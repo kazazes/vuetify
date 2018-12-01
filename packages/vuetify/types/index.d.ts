@@ -3,6 +3,7 @@ import { VuetifyLanguage } from './lang'
 import './lib'
 import './alacarte'
 import './colors'
+import './lib'
 
 declare const Vuetify: Vuetify
 export default Vuetify
